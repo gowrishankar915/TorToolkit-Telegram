@@ -8,7 +8,7 @@ except:
         API_HASH = "de90bf457789d874f2c9b1026e045bfe"
         API_ID = 6116827
         BOT_TOKEN = "5591463156:AAEGqLBq_6i-E47MzVyMV7x2BqmYa521qHw"
-        BASE_URL_OF_BOT = "http://144.24.148.182"
+        BASE_URL_OF_BOT = "http://144.24.144.99"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
@@ -68,7 +68,7 @@ except:
         DEF_RCLONE_DRIVE = ""
 
         # Max size of a playlist that is allowed (Number of videos)
-        MAX_YTPLAYLIST_SIZE = 20
+        MAX_YTPLAYLIST_SIZE = 50
         
         # Max size of the torrent allowed
         MAX_TORRENT_SIZE = 180
