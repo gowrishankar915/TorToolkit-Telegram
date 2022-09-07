@@ -27,7 +27,7 @@ except:
         TG_UP_LIMIT = 2147483648
 
         # Should force evething uploaded into Document
-        FORCE_DOCUMENTS = True
+        FORCE_DOCUMENTS = False
 
         # Chracter to use as a completed progress 
         COMPLETED_STR = "▰"
