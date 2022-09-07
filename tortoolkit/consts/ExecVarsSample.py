@@ -8,7 +8,7 @@ except:
         API_HASH = "de90bf457789d874f2c9b1026e045bfe"
         API_ID = 6116827
         BOT_TOKEN = "5591463156:AAEGqLBq_6i-E47MzVyMV7x2BqmYa521qHw"
-        BASE_URL_OF_BOT = "http://152.67.162.193"
+        BASE_URL_OF_BOT = "http://152.67.191.49"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
@@ -21,7 +21,7 @@ except:
         GD_INDEX_URL = False
 
         # Time to wait before edit message
-        EDIT_SLEEP_SECS = 5
+        EDIT_SLEEP_SECS = 10
 
         # Telegram Upload Limit (in bytes)
         TG_UP_LIMIT = 2147483648
